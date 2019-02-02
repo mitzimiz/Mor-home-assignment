@@ -1,0 +1,65 @@
+dict_keys(['reviews', 'price', 'name', 'author', 'rating', 'date'])
+{'reviews': '33', 'price': '$ 30 79', 'name': 'The Cucumber for Java Book: Behaviour-Driven Development for Testers and Developers', 'author': ' Seb Rose and Matt Wynne', 'rating': '4.9', 'date': 'Feb 16  2015'}
+{'reviews': '21', 'price': '$ 26 27', 'name': 'Pragmatic Unit Testing in Java 8 with JUnit', 'author': ' Jeff Langr and Andy Hunt', 'rating': '3.7', 'date': 'Mar 19  2015'}
+{'reviews': '18', 'price': '$ 29 95', 'name': 'A Friendly Introduction to Software Testing', 'author': ' Bill Laboon', 'rating': '4.5', 'date': 'Feb 1  2016'}
+{'reviews': '4', 'price': '$ 41 77', 'name': 'Software Testing: A Craftsman’s Approach Fourth Edition', 'author': ' Paul C. Jorgensen', 'rating': '3.6', 'date': 'Oct 18  2013'}
+{'reviews': '69', 'price': '$ 30 76', 'name': 'Lessons Learned in Software Testing: A Context-Driven Approach', 'author': ' Cem Kaner and James Bach', 'rating': '4.4', 'date': 'Dec 31  2001'}
+{'reviews': '23', 'price': '$ 63 94', 'name': 'Foundations of Software Testing ISTQB Certification', 'author': ' Rex Black and Erik van Veenendaal', 'rating': '4.2', 'date': 'Jan 6  2012'}
+{'reviews': '5', 'price': '$ 60 50', 'name': 'Introduction to Software Testing', 'author': ' Paul Ammann and Jeff Offutt', 'rating': '3.7', 'date': 'Dec 13  2016'}
+{'reviews': '10', 'price': '$ 47 94', 'name': 'Advanced Software Testing - Vol. 2 2nd Edition: Guide to the ISTQB Advanced Certification as an Advanced Test Manager', 'author': ' Rex Black', 'rating': '4.3', 'date': 'Sep 30  2014'}
+{'reviews': '141', 'price': '$ 14 49', 'name': 'The DevOps Handbook:: How to Create World-Class Agility Reliability and Security in Technology Organizations', 'author': ' Gene Kim and Jez Humble', 'rating': '4.6', 'date': 'Oct 6  2016'}
+{'reviews': '45', 'price': '$ 34 96', 'name': 'Software Testing', 'author': ' Ron Patton', 'rating': '3.8', 'date': 'Aug 5  2005'}
+{'reviews': '15', 'price': '$ 35 51', 'name': 'Python Testing with pytest: Simple Rapid Effective and Scalable', 'author': ' Brian Okken', 'rating': '4.6', 'date': 'Sep 25  2017'}
+{'reviews': '14', 'price': '$ 24 68', 'name': "The Way of the Web Tester: A Beginner's Guide to Automating Tests", 'author': ' Jonathan Rasmusson', 'rating': '5', 'date': 'Oct 2  2016'}
+{'reviews': '20', 'price': '$ 42 36', 'name': 'Software Testing', 'author': ' Brian Hambling Brian Hambling Peter Morgan Angelina Samaroo Geoff Thompson Peter Williams', 'rating': '4', 'date': 'Jun 18  2015'}
+{'reviews': '15', 'price': '$ 35 51', 'name': 'Python Testing with pytest: Simple Rapid Effective and Scalable', 'author': ' Brian Okken', 'rating': '4.6', 'date': 'Sep 25  2017'}
+{'reviews': '8', 'price': '$ 112 89', 'name': 'The Art of Software Testing', 'author': ' Glenford J. Myers and Corey Sandler', 'rating': '4.1', 'date': 'Nov 8  2011'}
+{'reviews': '14', 'price': '$ 14 74', 'name': "The Way of the Web Tester: A Beginner's Guide to Automating Tests", 'author': ' Jonathan Rasmusson', 'rating': '5', 'date': 'Oct 17  2016'}
+{'reviews': '68', 'price': '$ 48 89', 'name': 'Agile Testing: A Practical Guide for Testers and Agile Teams', 'author': ' Lisa Crispin and Janet Gregory', 'rating': '4.2', 'date': 'Jan 9  2009'}
+{'reviews': '13', 'price': '$ 9 10', 'name': 'Quality Assurance: Software Quality Assurance Made Easy', 'author': ' Solis Tech', 'rating': '3.9', 'date': 'Jan 25  2016'}
+{'reviews': '12', 'price': '$ 32 95', 'name': 'Foundations of Software Testing', 'author': ' Dorothy Graham and Isabel Evans', 'rating': '3.7', 'date': 'Dec 1  2007'}
+{'reviews': '', 'price': '$ 9 99', 'name': "The Dummies' Guide to Software Testing", 'author': ' Venkatanarasiman K', 'rating': 'no rating yet', 'date': 'Aug 26  2018'}
+{'reviews': '4', 'price': '$ 32 50', 'name': 'The Cucumber Book: Behaviour-Driven Development for Testers and Developers', 'author': ' Matt Wynne and Aslak Hellesoy', 'rating': '4.7', 'date': 'Feb 27  2017'}
+{'reviews': '2', 'price': '$ 30 40', 'name': 'Test-Driving JavaScript Applications: Rapid Confident Maintainable Code', 'author': ' Venkat Subramaniam', 'rating': '3.5', 'date': 'Oct 17  2016'}
+{'reviews': '22', 'price': '$ 37 59', 'name': 'Advanced Software Testing - Vol. 1 2nd Edition: Guide to the ISTQB Advanced Certification as an Advanced Test Analyst', 'author': ' Rex Black', 'rating': '3.8', 'date': 'Dec 28  2015'}
+{'reviews': '33', 'price': '$ 30 79', 'name': 'The Cucumber for Java Book: Behaviour-Driven Development for Testers and Developers', 'author': ' Seb Rose and Matt Wynne', 'rating': '4.9', 'date': 'Feb 16  2015'}
+{'reviews': '12', 'price': '$ 38 07', 'name': 'Software Testing Foundations 4th Edition: A Study Guide for the Certified Tester Exam (Rocky Nook Computing)', 'author': ' Andreas Spillner and Tilo Linz', 'rating': '4.2', 'date': 'Mar 19  2014'}
+{'reviews': '9', 'price': '$ 2 99', 'name': 'Learn Testing in 1 Day: Definitive Guide to Learn Software Testing for Beginners', 'author': ' Krishna Rungta', 'rating': '3.7', 'date': 'May 16  2017'}
+{'reviews': '22', 'price': '$ 42 49', 'name': 'More Agile Testing: Learning Journeys for the Whole Team (Addison-Wesley Signature Series (Cohn))', 'author': ' Janet Gregory and Lisa Crispin', 'rating': '4.7', 'date': 'Oct 16  2014'}
+{'reviews': '11', 'price': '$ 37 38', 'name': 'Exploratory Software Testing: Tips Tricks Tours and Techniques to Guide Test Design', 'author': ' James A. Whittaker', 'rating': '3.4', 'date': 'Sep 4  2009'}
+{'reviews': '5', 'price': '$ 15 39', 'name': 'Software Testing and Continuous Quality Improvement', 'author': ' William E. Lewis', 'rating': '5', 'date': 'Apr 19  2016'}
+{'reviews': '470', 'price': '$ 30 57', 'name': 'Clean Code: A Handbook of Agile Software Craftsmanship (Robert C. Martin Series)', 'author': ' Robert C. Martin', 'rating': '4.2', 'date': 'Aug 1  2008'}
+{'reviews': '57', 'price': '$ 28 56', 'name': 'How Google Tests Software', 'author': ' James A. Whittaker and Jason Arbon', 'rating': '3.8', 'date': 'Apr 2  2012'}
+{'reviews': '73', 'price': '$ 50 89', 'name': 'Testing Computer Software 2nd Edition', 'author': ' Cem Kaner and Jack Falk', 'rating': '4.2', 'date': 'Apr 12  1999'}
+{'reviews': '8', 'price': '$ 21 97', 'name': 'Software Testing: Principles and Practice', 'author': ' Ramesh Gopalaswamy and Srinivasan Desikan', 'rating': '3.5', 'date': 'Aug 10  2009'}
+{'reviews': '', 'price': '$ 1,659 00', 'name': 'Hygiena EnSURE Luminometer ATP Bio-Contamination Testing Meter with SureTrend Software', 'author': '', 'rating': 'no rating yet', 'date': ''}
+{'reviews': '90', 'price': '$ 15 99', 'name': 'Agile Project Management QuickStart Guide: A Simplified Beginners Guide To Agile Project Management', 'author': ' Ed Stark', 'rating': '4.2', 'date': 'Sep 17  2014'}
+{'reviews': '9', 'price': '$ 19 97', 'name': 'DevOps and Site Reliability Engineering (SRE) Handbook: Non-Programmer’s Guide', 'author': ' Stephen Fleming', 'rating': '4.8', 'date': 'Nov 23  2018'}
+{'reviews': '1', 'price': 'free', 'name': 'Software Testing Tutorials', 'author': ' Deepak Singh', 'rating': '5', 'date': 'Nov 5  2014'}
+{'reviews': '', 'price': 'free', 'name': '', 'author': '', 'rating': 'no rating yet', 'date': ''}
+{'reviews': '8', 'price': '$ 83 68', 'name': 'Software Quality Assurance: Integrating Testing Security and Audit (Internal Audit and IT Audit)', 'author': ' Abu Sayed Mahfuz', 'rating': '4.8', 'date': 'Apr 27  2016'}
+{'reviews': '', 'price': 'free', 'name': 'Testing Your Software', 'author': ' Online Marketing Institute', 'rating': 'no rating yet', 'date': 'Jan 1  2007'}
+{'reviews': '', 'price': 'free', 'name': 'TrainingRite Software Testing Training Company.', 'author': ' TrainingRite', 'rating': 'no rating yet', 'date': 'by'}
+{'reviews': '', 'price': '$ 53 29', 'name': 'A Study Guide to the ISTQB® Foundation Level 2018 Syllabus: Test Techniques and Sample Mock Exams', 'author': ' Adam Roman', 'rating': 'no rating yet', 'date': 'Nov 3  2018'}
+{'reviews': '1', 'price': 'free', 'name': 'Driving Simulator Software (2018 Edition) - Driver Training and Testing', 'author': ' Beta Research', 'rating': '5', 'date': 'by'}
+{'reviews': '7', 'price': '$ 17 27', 'name': 'Developer Testing: Building Quality into Software (Addison-Wesley Signature Series (Cohn))', 'author': ' Alexander Tarlinder', 'rating': '4.2', 'date': 'Sep 7  2016'}
+{'reviews': '', 'price': '$ 3 70', 'name': 'Software Testing Interview Questions: Frequently Asked Interview Questions', 'author': ' Anitha Prasad', 'rating': 'no rating yet', 'date': 'Nov 22  2018'}
+{'reviews': '', 'price': 'free', 'name': 'CTFL_001 iSQI Intermediate Certificate in Software Testing Online Certification Video Learning Made Easy', 'author': '', 'rating': 'no rating yet', 'date': '2018'}
+{'reviews': '1', 'price': '$ 12 95', 'name': 'CafePress - Software Entomologist - Light Mug - Unique Coffee Mug Coffee Cup', 'author': ' CafePress', 'rating': '5', 'date': 'by'}
+{'reviews': '38', 'price': '$ 3 00', 'name': 'Software Testing: Essential Skills for First Time Testers: Software Quality Assurance:From scratch to end', 'author': ' Umer W. Ghazali', 'rating': '3.5', 'date': 'Feb 10  2014'}
+{'reviews': '1', 'price': '$ 269 99', 'name': 'Fluke SW90W FlukeView ScopeMeter Software For 190 and 120 Series', 'author': ' Fluke', 'rating': '1', 'date': 'by'}
+{'reviews': '11', 'price': '$ 18 97', 'name': 'Site Reliability Engineering (SRE) Handbook: How SRE implements DevOps', 'author': ' Stephen Fleming', 'rating': '4.7', 'date': 'Nov 21  2018'}
+{'reviews': '65', 'price': '$ 4 99', 'name': 'Darknet: A Beginner’s Guide to Staying Anonymous (Penetration testing Kali Linux) Book 1', 'author': ' Lance Henderson', 'rating': '4', 'date': 'Jun 11  2012'}
+{'reviews': '', 'price': 'free', 'name': 'GNS3 - Router emulation software', 'author': '', 'rating': 'no rating yet', 'date': 'CC'}
+{'reviews': '4', 'price': '$ 45 49', 'name': 'Foundations of Software Testing (2nd Edition)', 'author': ' Aditya P. Mathur', 'rating': '3.7', 'date': 'Feb 13  2014'}
+{'reviews': '1,358', 'price': '$ 228 62', 'name': 'X-Rite i1Display Pro - Display Calibration (EODIS3) Scanner & Software for Color Accuracy Scanning Profiling & Multi Device Calibration', 'author': ' X-Rite', 'rating': '3.9', 'date': 'by'}
+{'reviews': '43', 'price': '$ 36 25', 'name': 'Blue Snowball iCE Condenser Microphone (Certified Refurbished)', 'author': ' Blue', 'rating': '4.1', 'date': 'by'}
+{'reviews': '', 'price': '$ 48 99', 'name': 'Radiolink Mini PIX Flight Controller with Vibration Damping by Software and OSD Port Same as F4 FC for Mini Racing Drone/Helicopter/Fixed Wing', 'author': ' Software and OSD Port Same as F4 FC for Mini Racing Drone/Helicopter/Fixed Wing\n', 'rating': 'no rating yet', 'date': 'by'}
+{'reviews': '18', 'price': '$ 23 95', 'name': 'Perfect Software: And Other Illusions about Testing', 'author': ' Gerald M. Weinberg', 'rating': '4.1', 'date': 'Aug 29  2008'}
+{'reviews': '4', 'price': 'free', 'name': 'HP ENVY 5643 All-in-One Printer/Copier/Scanner', 'author': ' HP', 'rating': '3.6', 'date': 'by'}
+{'reviews': '1', 'price': '$ 203 13', 'name': 'Extech HD300 CFM/CMM Thermo-Anemometer with Built-in Infrared Thermometer', 'author': ' Extech', 'rating': '5', 'date': 'by'}
+{'reviews': '1', 'price': '$ 30 40', 'name': 'Complete Guide to Test Automation: Techniques Practices and Patterns for Building and Maintaining Effective Software Projects', 'author': ' Arnon Axelrod', 'rating': '5', 'date': 'Sep 23  2018'}
+{'reviews': '6', 'price': '$ 44 99', 'name': 'Continuous Integration Delivery and Deployment: Reliable and faster software releases with automating builds tests and deployment', 'author': ' Sander Rossel', 'rating': '5', 'date': 'Oct 30  2017'}
+{'reviews': '5', 'price': '$ 82 04', 'name': 'Software Testing and Quality Assurance: Theory and Practice', 'author': ' Kshirasagar Naik and Priyadarshi Tripathy', 'rating': '4.1', 'date': 'Sep 23  2011'}
+{'reviews': '', 'price': 'free', 'name': 'software testing', 'author': ' sam', 'rating': 'no rating yet', 'date': 'Aug 29  2016'}
+{'reviews': '', 'price': 'free', 'name': '', 'author': '', 'rating': 'no rating yet', 'date': ''}
