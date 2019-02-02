@@ -55,8 +55,9 @@ class TestAmazonExample(unittest.TestCase):
                 break
 
         write_books_to_csv(csv_name='Books.csv', books_results=books_results)
+        # first book in this page does not have add to cart option needs to get back to first results page
         main_page.search_text_element = "software testing"
-
+        search_results_page = main_page.click_go_button()
         book_page, book_info = search_results_page.select_book_from_results_and_get_book_info(
             search_results_page.get_first_book_element())
         proceed_to_cart = book_page.add_to_cart()
